@@ -9,8 +9,17 @@ Les valeurs que je souhaite véhiculer sont le respect, la bienveillance, la tol
 
 # Compétences
 
-# Travaux réalisés
-##  TODO
+# Travaux réalisés - Cursus scolaire
+##  Mini-jeux python
+[Lien du répo Github](https://github.com/Nyotora/mini-jeux)
+Avec : @cOpeRency
+
+## Latice
+## Escape game
+### PC
+### VR
+# Travaux réalisés - Projets personnels
+## R
 
 <!--
 **Nyotora/Nyotora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
