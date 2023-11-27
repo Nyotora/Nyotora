@@ -15,7 +15,7 @@ Je suis assez sérieux dans la réalisation de taches, je peux également faire 
 Un programmeur peut travailler seul, mais il ne doit pas travailler que pour lui. En ce qui me concerne, un développeur doit travailler en ayant pour but de plaire le client.
 
 ## Maitrise technique
-Langage :![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+Langage : ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,6 +35,9 @@ Design : ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for
 
 Autre : ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Autre
+A côté de mes aptitudes liées à la programmation, j’estime avoir d’assez bonnes compétences artistiques, ce qui peut m’aider pour, par exemple, réaliser des concepts arts ou des designs plus ou moins détaillés. Je prête attention à la qualité de mes créations en essayant d’être le plus objectif possible.
+Enfin, ce talent peut être lié à la programmation. En effet, je peux prendre beaucoup de mon temps afin de réaliser une interface homme-machine pouvant plaire un maximum au client.
 
 # Travaux réalisés - Cursus scolaire
 ##  Mini-jeux python [:link:](https://github.com/Nyotora/mini-jeux)
@@ -49,7 +52,7 @@ J’ai développé en langage python plusieurs mini-jeux tels qu’un jeu puissa
 </div>
 
 
-## Latice
+## Latice [:link:](https://github.com/Nyotora/latice)
 Notre client est l’entreprise GamIUTer, et celle-ci voudrait une version numérique simplifiée du jeu LATICE qu’elle vient juste de découvrir.
 
 Nous sommes donc chargés du développement de cette forme simplifié du jeu LATICE. L’application devra être implémentée en Java, tout en utilisant JavaFX pour réaliser l’IHM (Interface Homme-Machine) afin de proposer une expérience utilisateur plus agréable. 
@@ -61,12 +64,25 @@ Pour nous c’était comme un défi, notre but étant de répondre le plus possi
 </div>
 
 ## Escape game
-### PC
-### VR
+J’ai également développé au cotés de 3 autres collègues un jeu vidéo sous forme d’escape game 3D promouvant le BUT Informatique.
+
+Développé sur Unity qui, à l’instar d’Unreal Engine, est un moteur permettant de faire des jeux, nous avons donc distribué une démo du jeu à l’occasion des journées portes ouvertes.
+Etant le responsable de la partie développement, nous avons analysé le cahier des charges tout en usant de notre liberté afin de répondre au besoin client.
+
+Enfin, nous avons eu l’opportunité d’adapter notre jeu en réalité virtuelle pour les secondes journées portes ouvertes.
+
+### PC [:link:](https://github.com/Nyotora/escapegame)
+Le département Informatique a proposé pour les prochaines JPO de 2023 une application sur le principe d’un escape game. Cet escape game a permis de faire découvrir le BUT informatique aux futurs élèves en études supérieures afin de les aider à faire leur choix d’orientation.
+### VR [:link:](https://github.com/Nyotora/escapegamevr)
+Après avoir relevé le défi précédent, nous sommes arrivés au semestre 4 avec un nouveau but : adapter notre jeu en réalité virtuelle, afin d’immerger le joueur encore plus dans la formation du BUT informatique et le plonger dans son potentiel futur, pour mieux se projeter et faire son choix bien difficile qu’est celui de l’orientation post-bac. Ce fût l’occasion pour nous de découvrir cette technologie et d'apprendre à l’utiliser.
 
 
 # Travaux réalisés - Projets personnels
-## R
+## Jeu de Karting
+En ce moment, j’accorde une partie de mon temps pour mon projet principal. En effet, je souhaite développer un jeu vidéo similaire à ceux des licences « Mario Kart » en y incorporant des "memes" d'internet même si, cependant, je le produis seul, c'est-à-dire que je m’occupe de tous : algorithmes, interfaces graphiques, réalisation 3D… 
+Je développe ce jeu avec le moteur de jeu Unreal Engine 5 et je construis les programmes en alternant le « Blueprint » (système de script visuel) avec du C++. C’est un projet qui peut s’étendre sur plusieurs mois, mais je suis motivé à le terminer.
+
+## Jeu inspiré de Super Smash Bros
 
 <!--
 **Nyotora/Nyotora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
