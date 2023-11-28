@@ -63,7 +63,7 @@ Pour nous c’était comme un défi, notre but étant de répondre le plus possi
     <img src="https://github.com/Nyotora/Nyotora/assets/101416486/80b032f6-99c8-4be6-b812-6f179818df91" width="400">
 </div>
 
-## Escape game
+## Escape game (demo)
 J’ai également développé au cotés de 3 autres collègues un jeu vidéo sous forme d’escape game 3D promouvant le BUT Informatique.
 
 Développé sur Unity qui, à l’instar d’Unreal Engine, est un moteur permettant de faire des jeux, nous avons donc distribué une démo du jeu à l’occasion des journées portes ouvertes.
@@ -82,7 +82,35 @@ Après avoir relevé le défi précédent, nous sommes arrivés au semestre 4 av
 En ce moment, j’accorde une partie de mon temps pour mon projet principal. En effet, je souhaite développer un jeu vidéo similaire à ceux des licences « Mario Kart » en y incorporant des "memes" d'internet même si, cependant, je le produis seul, c'est-à-dire que je m’occupe de tous : algorithmes, interfaces graphiques, réalisation 3D… 
 Je développe ce jeu avec le moteur de jeu Unreal Engine 5 et je construis les programmes en alternant le « Blueprint » (système de script visuel) avec du C++. C’est un projet qui peut s’étendre sur plusieurs mois, mais je suis motivé à le terminer.
 
+A l'heure actuelle :
+* on peut faire une course contre une IA (+ multijoueur)
+* l'IA sait déraper, revenir sur la piste après un écart de trajectoire et éviter des obstacles
+* on peut faire des commandes de base (avancer/reculer, déraper, envoyer un objet...)
+
+A l'heure actuelle, il manque :
+* la gestion des objets par l'IA
+* l'IA doit s'adapter en fonction des paramètres du véhicule (elle est fonctionnelle que pour le véhicule par défaut)
+* la gestion d'un grand prix
+* différents types d'objets
+* plusieurs niveaux d'IA
+* l'IA peut tomber dans le vide (il ne sait pas encore le detecter)
+* Des bruitages
+
 ## Jeu inspiré de Super Smash Bros
+Je suis un second projet, lui aussi réalisé seul et à l'aide Unreal Engine 5. Ce projeta pour but de réaliser un jeu similaire au jeu Super Smash Bros. mais composé de personnages issus du magazine Weekly Shonen Jump.
+
+A l'heure actuelle :
+* On peut attaquer, se protéger, sauter
+* On peut s'agripper au rebord du stage
+* On peut esquiver les coups (roll, air-dodge...)
+* Le système de vie est fonctionnel (l'éjection l'est aussi)
+* Ramasser un objet et le lancer
+* Un menu pause
+
+A l'heure actuelle, il manque :
+* Ecran de victoire / décompte au début
+* Saisir l'adversaire (grab) (Un personnage l'a en attaque spéciale, mais la saisie standardisée à tous les personnages est manquante)
+* **L'entiereté de l'IA ^^**
 
 <!--
 **Nyotora/Nyotora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
