@@ -78,7 +78,7 @@ Après avoir relevé le défi précédent, nous sommes arrivés au semestre 4 av
 
 
 # Travaux réalisés - Projets personnels
-## Jeu de Karting
+## Jeu de Karting ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 En ce moment, j’accorde une partie de mon temps pour mon projet principal. En effet, je souhaite développer un jeu vidéo similaire à ceux des licences « Mario Kart » en y incorporant des "memes" d'internet même si, cependant, je le produis seul, c'est-à-dire que je m’occupe de tous : algorithmes, interfaces graphiques, réalisation 3D… 
 Je développe ce jeu avec le moteur de jeu Unreal Engine 5 et je construis les programmes en alternant le « Blueprint » (système de script visuel) avec du C++. C’est un projet qui peut s’étendre sur plusieurs mois, mais je suis motivé à le terminer.
 
@@ -96,7 +96,9 @@ A l'heure actuelle, il manque :
 * l'IA peut tomber dans le vide (il ne sait pas encore le detecter)
 * Des bruitages
 
-## Jeu inspiré de Super Smash Bros
+### Imagerie (à venir)
+
+## Jeu inspiré de Super Smash Bros ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 Je suis un second projet, lui aussi réalisé seul et à l'aide Unreal Engine 5. Ce projeta pour but de réaliser un jeu similaire au jeu Super Smash Bros. mais composé de personnages issus du magazine Weekly Shonen Jump.
 
 A l'heure actuelle :
@@ -111,6 +113,8 @@ A l'heure actuelle, il manque :
 * Ecran de victoire / décompte au début
 * Saisir l'adversaire (grab) (Un personnage l'a en attaque spéciale, mais la saisie standardisée à tous les personnages est manquante)
 * **L'entiereté de l'IA ^^**
+
+### Imagerie (à venir)
 
 <!--
 **Nyotora/Nyotora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
