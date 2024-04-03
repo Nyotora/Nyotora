@@ -96,7 +96,10 @@ A l'heure actuelle, il manque :
 * l'IA peut tomber dans le vide (il ne sait pas encore le detecter)
 * Des bruitages
 
-### Imagerie (à venir)
+### Imagerie
+
+https://github.com/Nyotora/Nyotora/assets/101416486/9fc49509-825b-44a1-9338-069e8a3fe4d6
+
 
 ## Jeu inspiré de Super Smash Bros ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 Je suis un second projet, lui aussi réalisé seul et à l'aide Unreal Engine 5. Ce projeta pour but de réaliser un jeu similaire au jeu Super Smash Bros. mais composé de personnages issus du magazine Weekly Shonen Jump.
