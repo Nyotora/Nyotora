@@ -114,7 +114,10 @@ A l'heure actuelle, il manque :
 * Saisir l'adversaire (grab) (Un personnage l'a en attaque spéciale, mais la saisie standardisée à tous les personnages est manquante)
 * **L'entiereté de l'IA ^^**
 
-### Imagerie (à venir)
+### Imagerie
+
+https://github.com/Nyotora/Nyotora/assets/101416486/c8c1a0ef-26de-4d39-991a-2b7e3ea4f310
+
 
 <!--
 **Nyotora/Nyotora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
