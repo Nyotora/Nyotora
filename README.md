@@ -40,7 +40,7 @@ A côté de mes aptitudes liées à la programmation, j’estime avoir d’assez
 Enfin, ce talent peut être lié à la programmation. En effet, je peux prendre beaucoup de mon temps afin de réaliser une interface homme-machine pouvant plaire un maximum au client.
 
 # Travaux réalisés - Cursus scolaire
-##  Mini-jeux python [:link:](https://github.com/Nyotora/mini-jeux)
+##  Lycée : Mini-jeux python [:link:](https://github.com/Nyotora/mini-jeux)
 J’ai développé en langage python plusieurs mini-jeux tels qu’un jeu puissance 4, un morpion ou encore un jeu du pendu. J’ai pu adapter le système d’affichage pour rendre attrayant la partie de jeu. 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Nyotora/Nyotora/assets/101416486/70fbdf43-dc37-479d-83f1-c67d620927cd" width="400">
@@ -52,7 +52,7 @@ J’ai développé en langage python plusieurs mini-jeux tels qu’un jeu puissa
 </div>
 
 
-## Latice [:link:](https://github.com/Nyotora/latice)
+## IUT1 : Latice [:link:](https://github.com/Nyotora/latice)
 Notre client est l’entreprise GamIUTer, et celle-ci voudrait une version numérique simplifiée du jeu LATICE qu’elle vient juste de découvrir.
 
 Nous sommes donc chargés du développement de cette forme simplifié du jeu LATICE. L’application devra être implémentée en Java, tout en utilisant JavaFX pour réaliser l’IHM (Interface Homme-Machine) afin de proposer une expérience utilisateur plus agréable. 
@@ -63,7 +63,7 @@ Pour nous c’était comme un défi, notre but étant de répondre le plus possi
     <img src="https://github.com/Nyotora/Nyotora/assets/101416486/80b032f6-99c8-4be6-b812-6f179818df91" width="400">
 </div>
 
-## Escape game (demo)
+## IUT2 : Escape game (demo)
 J’ai également développé au cotés de 3 autres collègues un jeu vidéo sous forme d’escape game 3D promouvant le BUT Informatique.
 
 Développé sur Unity qui, à l’instar d’Unreal Engine, est un moteur permettant de faire des jeux, nous avons donc distribué une démo du jeu à l’occasion des journées portes ouvertes.
@@ -77,9 +77,9 @@ Le département Informatique a proposé pour les prochaines JPO de 2023 une appl
 Après avoir relevé le défi précédent, nous sommes arrivés au semestre 4 avec un nouveau but : adapter notre jeu en réalité virtuelle, afin d’immerger le joueur encore plus dans la formation du BUT informatique et le plonger dans son potentiel futur, pour mieux se projeter et faire son choix bien difficile qu’est celui de l’orientation post-bac. Ce fût l’occasion pour nous de découvrir cette technologie et d'apprendre à l’utiliser.
 
 
-# Travaux réalisés - Projets personnels
+# Travaux réalisés - Projets personnels (Prototypes de jeux)
 ## Jeu de Karting ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-En ce moment, j’accorde une partie de mon temps pour mon projet principal. En effet, je souhaite développer un jeu vidéo similaire à ceux des licences « Mario Kart » en y incorporant des "memes" d'internet même si, cependant, je le produis seul, c'est-à-dire que je m’occupe de tous : algorithmes, interfaces graphiques, réalisation 3D… 
+J'ai pu accorder une partie de mon temps à un de mes projets personnels. En effet, je souhaite développer un jeu vidéo similaire à ceux des licences « Mario Kart ». Cette fois je le produis seul, c'est-à-dire que je m’occupe de tous : algorithmes, interfaces graphiques, réalisation 3D… 
 Je développe ce jeu avec le moteur de jeu Unreal Engine 5 et je construis les programmes en alternant le « Blueprint » (système de script visuel) avec du C++. C’est un projet qui peut s’étendre sur plusieurs mois, mais je suis motivé à le terminer.
 
 A l'heure actuelle :
@@ -120,6 +120,31 @@ A l'heure actuelle, il manque :
 ### Imagerie
 
 https://github.com/Nyotora/Nyotora/assets/101416486/c8c1a0ef-26de-4d39-991a-2b7e3ea4f310
+
+
+## Modding ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+Lors de mon année sabbaique, je me suis lancé dans l'activité de modding sur le jeu Dragon Ball Sparking! ZERO sous le pseudonyme de [Nyoh972](https://x.com/Nyoh972), afin de me perfectionner dans la réalisation de personnages/gameplay dans un jeu vidéo, en plus de me créer une petite communauté.
+
+J'utilise Unreal Engine 5 pour incorporer de nouveaux personnages, de nouvelles mécaniques et bien plus.
+
+Ceci m'a également permis d'améliorer ma capacité à me repérer dans un projet déjà existant afin d'y travailler.
+
+Je suis à l'origine de beaucoup de mods très appréciés du grand publique tels que le mod Jotaro (du manga Jojo's Bizarre Adventure), que beaucoup considère comme le meilleur puisque j'ai du implémenter entierement le système de Stand (= invocation d'un esprit pour se battre) inexistant dans le jeu de base.
+
+J'ai également proposé un outil permettant aux joueurs de créer plus facilement leur combat personnalisés et de les partager sans passer par les serveurs du jeu, dans le cas ou les combats inclueraient des mods.
+[Mon profil de modding](https://gamebanana.com/members/2379872)
+
+### Imagerie - Vidéos Youtube
+
+Youtube Video :
+
+[![Jotaro Youtube Video](https://img.youtube.com/vi/Y0gPZRolDyU/0.jpg)](https://www.youtube.com/watch?v=Y0gPZRolDyU)
+
+
+Screenshots :
+
+![Sans titre_1 7 2](https://github.com/user-attachments/assets/d48caf48-0a04-47bb-bd04-f3ba06e3dcb9)
+![Sans titre_1 29 2](https://github.com/user-attachments/assets/c2f9b708-8d9d-469f-b552-d11ed4e44507)
 
 
 <!--
